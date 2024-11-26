@@ -1,0 +1,16 @@
+Nombre del Evaluador: Juan
+Cantidad de recursos: 6
+Cantidad de recursos por categoria: 
+Cosmología: 1
+Física Teórica: 1
+Biología Molecular: 1
+Microbiología: 1
+Física Cuántica: 1
+Biología Evolutiva: 1
+Porcentajes por categoria: 
+Categoría: Biología Molecular - Porcentaje: 16,67%
+Categoría: Física Teórica - Porcentaje: 16,67%
+Categoría: Física Cuántica - Porcentaje: 16,67%
+Categoría: Microbiología - Porcentaje: 16,67%
+Categoría: Cosmología - Porcentaje: 16,67%
+Categoría: Biología Evolutiva - Porcentaje: 16,67%

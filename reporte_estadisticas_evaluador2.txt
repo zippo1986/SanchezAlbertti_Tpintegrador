@@ -1,0 +1,6 @@
+Nombre del Evaluador: Ana
+Cantidad de recursos: 3
+Cantidad de recursos por categoria: 
+Ciencias naturales: 3
+Porcentajes por categoria: 
+Categoría: Ciencias naturales - Porcentaje: 100,00%

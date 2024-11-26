@@ -1,0 +1,8 @@
+Nombre del Evaluador: Juan
+Cantidad de recursos: 6
+Cantidad de recursos por categoria: 
+Ciencias naturales: 5
+Ciencias sociales: 1
+Porcentajes por categoria: 
+Categoría: Ciencias sociales - Porcentaje: 16,67%
+Categoría: Ciencias naturales - Porcentaje: 83,33%
